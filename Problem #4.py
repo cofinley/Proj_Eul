@@ -1,9 +1,10 @@
 '''multiply 1-999 by 1-999
     if product is palidrome, store numbers and palindrome product in dictionary
+    
 palidrome criteria
-    #find numbers with even digits (probably 6 digits in this case)
-    #test if string == reverse of string
-    '''
+    find numbers with even digits (probably 6 digits in this case)
+    test if string == reverse of string
+'''
 
 dict, dict1 = {}, {}
 
